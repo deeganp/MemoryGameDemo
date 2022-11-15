@@ -1,0 +1,23 @@
+#game div {
+  border: 1px solid black;
+  width: 8%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  display: block;
+  font-family: 'Kanit', sans-serif;
+  font-size: 100px;
+
+}
+h2 {
+  display: block;
+  font-size: 40px;
+  font-family:'Kanit', sans-serif ;
+  text-align: center;
+}
+
